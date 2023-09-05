@@ -223,12 +223,12 @@ fun Sections(
             Text(
                 "Desenvolvido por Danilo Gomes",
                 modifier = Modifier.clickable {
-                onCardClick("Link", "https://wwww.dgomesdev.com")
+                onCardClick("Link", "https://www.dgomesdev.com")
             }
             )
-            Text("https://wwww.dgomesdev.com",
+            Text("https://www.dgomesdev.com",
                 modifier = Modifier.clickable {
-                onCardClick("Link", "https://wwww.dgomesdev.com")
+                onCardClick("Link", "https://www.dgomesdev.com")
             }
             )
         }
