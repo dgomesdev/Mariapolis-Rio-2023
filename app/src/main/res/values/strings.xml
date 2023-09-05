@@ -1,0 +1,543 @@
+<resources>
+    <string name="app_name">
+        Mariápolis Rio 2023
+    </string>
+    <string name="mariapolis_definition">\n
+        Uma cidade temporária onde pessoas convivem com base nos princípios do amor recíproco,
+        da unidade e da fraternidade, experimentando forte clima de família.\n\n
+
+        Desde 1949, no Movimento dos Focolares, pessoas de todas as nacionalidades e culturas se
+        reuniam durante o verão, no norte da Itália, para essa convivência. As Mariápolis (cidade
+        de Maria) multiplicaram-se pelo mundo e são o evento mais característico do Movimento dos
+        Focolares.\n\n
+
+        Desde o início era um encontro de alguns dias para conhecer o estilo de vida do
+        Movimento, encorajando todos a viverem segundo a lei dos valores universais.\n\n
+
+        O Movimento dos Focolares quer promover a unidade entre as pessoas, independentemente de
+        religião ou cultura. Acredita que a unidade é essencial para construirmos uma sociedade
+        mais justa e de paz. Para isso, a Mariápolis oferece encontros, oficinas, música,
+        intercâmbio de experiências, espiritualidade, ações sociais e culturais para atingir
+        esse objetivo.\n\n
+
+        As atividades enfatizam o respeito mútuo e o diálogo em todas as instâncias.\n\n
+
+        Seja bem-vindo(a)!!!
+    </string>
+    <string name="timout_prayer">\n
+        Eterno Pai, unidos em nome de Jesus, Nós te pedimos a paz para
+        o mundo, para que não existam mais guerras e conflitos em nenhuma parte da Terra.\n\n
+
+        Pedimos também que se resolvam os problemas dos países que sofrem graves situações
+        econômicas, políticas e sociais.\n\n
+
+        Enfim, nós te pedimos que o mundo unido se torne uma realidade.\n\n
+
+        Amém.
+    </string>
+    <string name="timeout_definition">\n
+        Prática proposta por Chiara Lubich em 1991 durante a guerra do Golfo para suscitar uma
+        “corrente humana” que conecte e abrace o mundo inteiro.\n\n
+
+        O “Time-out” pretende tecer uma rede de paz ao redor do mundo, com milhares de
+        “nós-pessoas” que todos os dias, às 12.00 horas de cada fuso horário, fazem uma pausa
+        para um minuto de silêncio, de oração ou reflexão sobre a paz.
+    </string>
+    <string name="quem">\n
+        Surge um raio de sol\n
+        Entre as nuvens do céu\n
+        Aquece toda a Terra e nascem flores\n
+        Formam grandes jardins\n
+        Revestidos de poesia\n
+        Em um jogo de harmonia e de cores\n
+        Mas quem veste as flores do campo?\n
+        Quem é que lhe dá as cores?\n\n
+
+        Leve como um vento\n
+        Passa uma andorinha, com o seu canto\n
+        Que é só de primavera.\n
+        E depois do infinito\n
+        Uma dança de alegria\n
+        Muitos voos entre a terra e o mar.\n
+        Mas quem nutre as aves do céu?\n
+        Quem foi que lhes deu um ninho?\n
+        Quem?\n
+        Tu, Criador do mundo\n
+        Tu que nos deste a vida\n
+        Tu o sol infinito: Deus Amor\n
+        Tu, Pai de todos os homens\n
+        Tu que vives no céu\n
+        Tu, mistério imenso: Deus amor\n
+        Uma viva imagem do Criador do mundo,\n
+        Um espelho profundo da sua vida.\n
+        Homem, centro do Cosmos,\n
+        Tem um coração para amar,\n
+        E o mundo a modelar com suas mãos.\n
+        Mas quem deu ao homem a vida?\n
+        Quem foi que lhe deu um coração?\n
+        Tu, Criador do mundo... (Bis)\n
+        Amor
+    </string>
+    <string name="e_tao_linda_a_vida">\n
+        Vejo rostos diferentes\n
+        Dessa gente ao meu lado.\n
+        Quanta vida, quanta sede de felicidade!\n
+        Quantos sonhos já vividos,\n
+        Mundos tão desconhecidos,\n
+        Universos cheios de esplendor!\n\n
+
+        É tão linda a vida\n
+        Na unidade, na harmonia! (BIS)\n
+        É tão linda a vida!\n\n
+
+        Em meu coração acolho\n
+        A esperança e a dor,\n
+        O silêncio e o canto\n
+        Dessa gente ao meu redor.\n
+        Em seu pranto, em seu sorriso,\n
+        O meu pranto, o meu sorriso;\n
+        Quem está ao meu lado é igual a mim.\n\n
+
+        É tão linda a vida... (BIS)\n\n
+
+        Entre casas e arranha-céus,\n
+        Entre antenas lá no alto,\n
+        Assim tão azul o céu eu antes nunca vi.\n
+        E as luzes ganham vida,\n
+        Colorindo até o asfalto,\n
+        Já que somos todos uma só voz.\n
+        É tão linda a vida... (BIS)
+    </string>
+    <string name="permanece_conosco">\n
+        A sombra vai se abrindo, quando a noite cai\n
+        E vão fugindo tantas luzes\n
+        De um dia, que jamais há de se acabar;\n
+        De um dia, que há de começar sempre;\n
+        Porque sabemos que uma nova vida,\n
+        Aqui nascida, ninguém mais cancelará.\n\n
+
+        Se Tu vais agora, anoitecerá\n
+        Se Tu vais embora, Senhor, o que será?\n
+        Se Tu vais agora, anoitecerá;\n
+        Mas se permaneces, a noite não virá.\n\n
+
+        Como o mar se espraia, infinitamente,\n
+        O vento soprará e abrirá os caminhos escondidos.\n
+        Tantos corações hão de ver uma nova luz clara,\n
+        Como uma chama que, onde passa, queima.\n
+        O Teu amor todo mundo invadirá.\n\n
+
+        Se tu vais agora, anoitecerá…\n\n
+
+        A humanidade luta, sofre e espera.\n
+        É terra seca. E no céu não há nuvens,\n
+        Mas a vida não lhe faltará;\n
+        E a esperança brilhará para sempre.\n
+        Contigo unidos, oh! Fonte de água viva!\n
+        Tua presença o deserto acabará.\n
+        Se Tu vais agora, anoitecerá…
+    </string>
+    <string name="e_uma_estrada_se_abre">\n
+        Raio que passa nas nuvens,\n
+        Se vê céu aberto.\n
+        Água que cai decidida, escavando por si\n
+        Caminho para a vida.\n
+        A trajetória de um voo que,\n
+        No horizonte da tarde...\n
+        Tudo nesta natureza tem estrada pra si.\n
+        Momento que segue momento\n
+        E um salto no tempo.\n
+        Para a unidade o mundo já se encaminha,\n
+        E não é só mais tarde.\n
+        Vamos então começar.\n
+        Busquemos dentro de nós:\n
+        Somente vivendo o amor, o mundo verá\n
+
+        Que uma estrada se abre, passo após passo.\n
+        Agora, por esta estrada, nós.\n
+        E aparece um céu, um mundo que renasce\n
+        Viver, sim, aqui,\n
+        Para a unidade.\n
+        E uma estrada se abre, ...\n\n
+
+        Barco que segue uma rota no meio das ondas,\n
+        Homem que abre caminho numa selva de ideias,\n
+        Seguindo sempre o Sol.\n
+        E quando a sede chegar\n
+        Tenta encontrar uma fonte...\n
+        Areia que em movimento retorna ao mar.\n
+        Vamos então começar.\n
+        Busquemos dentro de nós:\n
+        Somente vivendo o amor, o mundo verá\n\n
+
+        Que uma estrada se abre, ...\n
+        E uma estrada se abre, ...
+    </string>
+    <string name="em_direcao_ao_sol">\n
+        Nossa pátria agora é um mundo\n
+        Mundo unido está em nossas mãos\n
+        Tudo aqui se tornará possível\n
+        É uma nova maneira de viver.\n
+        Cada um de nós protagonistas\n
+        Uma outra história fará.\n\n
+
+        Liberdade é conquistar\n
+        O caminho em direção ao sol\n
+        Este é o grande desafio\n
+        Não temos barreiras para amar. (2X)\n\n
+
+        A cultura nova está surgindo\n
+        Onde o ter não vai mais importar\n
+        Onde o equilíbrio está no dar\n
+        Homens novos nós seremos já.\n
+        Cada um de nós protagonistas\n
+        Uma outra história fará.\n\n
+
+        Liberdade é conquistar… ( BIS)
+    </string>
+    <string name="um_rio_de_felicidade">\n
+        Um rio de felicidade\n
+        Pra construir um mundo que\n
+        Viva uma nova cultura de paz.\n\n
+
+        Há um deserto que vive ao meu redor,\n
+        Rostos tristes e uma solidão sem fim,\n
+        É só desilusão.\n
+        Abro os olhos e então percebo que\n
+        A resposta que a humanidade quer achar\n
+        Já vive entre nós.\n
+        Um rio de felicidade\n
+        Que se espalhou até aqui\n
+        Amor que invade já a cidade.\n
+        Um rio de felicidade\n
+        Pra construir um mundo que\n
+        Viva uma nova cultura de paz.\n\n
+
+        Mundo novo que a unidade atrai.\n
+        Abre as portas pra quando o amanhã chegar\n
+        E avança sem parar.\n
+        Gente viva que ama sempre mais\n
+        Abre o tempo da nova civilização\n
+        Em meio aos homens.\n\n
+
+        Um rio de felicidade...\n\n
+
+        É uma corrente de unidade\n
+        Que muda esta humanidade,\n
+        Pela presença de Deus entre nós,\n
+        De Deus entre nós.\n
+        Um rio de felicidade...
+    </string>
+    <string name="o_teu_amor_esta_em_mim">\n
+        O teu amor está em mim,\n
+        Dá vida minha canção.\n\n
+
+        No pranto e na dor,\n
+        Ao meu lado estás,\n
+        Tu queres mostrar-me que\n
+        Simples gestos são\n
+        Grandes se trazem amor\n
+        Ao coração\n\n
+
+        O teu amor está em mim,\n
+        Dá vida à minha canção.\n
+        Tu és o vento\n
+        Que me eleva cada vez mais.\n
+        O teu amor está em mim,\n
+        E farei o mundo ver:\n
+        É maravilhoso viver!\n
+        É maravilhoso viver!\n\n
+
+        Quando a noite cai,\n
+        Me dás tua mão.\n
+        Tu queres mostrar-me que\n
+        Simples gestos são\n
+        Grandes, se trazem amor\n
+        Ao coração.\n\n
+
+        O teu amor está em mim,\n
+        Dá vida à minha canção.\n
+        Tu és o vento\n
+        Que me eleva cada vez mais.\n
+        O teu amor está em mim,\n
+        E farei o mundo ver:\n
+        É maravilhoso viver!\n
+        É maravilhoso viver!\n\n
+
+        O teu amor está em mim, forte me faz\n
+        O teu amor está em mim, forte me faz\n\n
+
+        O teu amor está em mim,\n
+        Dá vida à minha canção.\n
+        Tu és o vento\n
+        Que me eleva cada vez mais.\n
+        O teu amor está em mim,\n
+        E farei o mundo ver:\n
+        É maravilhoso viver!\n
+        É maravilhoso viver!
+    </string>
+    <string name="e_grande">\n
+        É grande, é grande! Nosso ideal é assim\n
+        Sem medo, sem muros, e não conhece confins.\n
+        É grande, é grande! Queres também construir?\n
+        Já vemos, sentimos, o mundo unido surgir.\n\n
+
+        Hoje em dia quando eu ligo a tv\n
+        Vejo imagens falsas de um mundo que\n
+        Sempre mais vai na contramão.\n
+        Tanta gente vive de escravidão\n
+        Desperdiça o tempo em ilusão.\n
+        Dizem que o mundo é assim,\n
+        Mas não é, não é mesmo!\n
+        Silenciosamente ao Sol\n
+        Vai nascendo um novo mundo\n
+        Que já vive agora aqui. Está entre nós.\n\n
+
+        É grande, é grande! Nosso ideal é assim\n
+        Sem medo, sem muros, e não conhece confins.\n
+        É grande, é grande! Queres também construir?\n
+        Já vemos, sentimos, o mundo unido surgir.\n\n
+
+        Mesmo se foi ontem que começou\n
+        Essa nova ideia já se espalhou\n
+        Uma ideia, parece utopia. (o vemos já)\n
+        Quantas mãos de heróis abriram caminhos\n
+        Numa terra hostil e cheia de espinhos\n
+        São o sim dessa utopia\n
+        É real, verdadeira.\n
+        Silenciosamente ao Sol\n
+        Está nascendo um novo mundo\n
+        Está entre nós.\n\n
+
+        É grande, é grande...
+    </string>
+    <string name="e_a_terra_sera">\n
+        É como um por de Sol: um milênio já se vai,\n
+        E a esperança fez sorrir a vida.\n
+        E um novo milênio virá\n
+        E verá reflorir toda a Terra.\n
+        O amor que existe entre nós crescerá.\n\n
+
+        Queremos que seja, e a Terra será\n
+        Um grande jardim, que já não terá Norte e Sul\n
+        E veremos brotar uma só humanidade.\n
+        Queremos que seja, e a Terra será\n
+        Um grande jardim, que florescerá e será\n
+        Como Deus o criou: a sua casa entre os homens.\n\n
+
+        Temos um novo mundo,\n
+        Germinando em nossas mãos.\n
+        É construído com a nossa vida.\n
+        E o dia de luz já chegou\n
+        Como rede que envolve a Terra.\n
+        A viva unidade entre nós crescerá.\n\n
+
+        Queremos que seja, e a Terra será… (2x)
+    </string>
+    <string name="toda_vida_e_um_dom">\n
+        Toda vida é um dom\n
+        Pra todo homem\n
+        Toda vida é um dom\n
+        Em cada momento\n
+        Toda a vida é um dom\n
+        Canta a vida, canta a vida\n
+        Toda vida é um dom\n
+        Pra todo homem\n
+        Toda vida é um dom em cada momento\n
+        Toda a vida é um dom\n
+        Canta a vida, canta a vida\n\n
+
+        Corre corre sem parar\n
+        Contra a corrente que te arrasta\n
+        Vence as barreiras que te querem derrubar\n
+        Destrói as barreiras da indiferença\n
+        Sorri a quem não sabe\n
+        Que a vida não acabará\n\n
+
+        Toda a vida é um dom, não a estragues\n
+        Toda a vida é um dom, não a desperdices\n
+        Toda a vida é dom\n
+        Vive a vida, vive a vida\n\n
+
+        Mesmo nos dias tristes, a vida é amor\n
+        Mesmo nas tempestades, a vida é amor\n
+        A vida é sempre um dom que Deus te dá\n
+        Que Deus te dá!
+    </string>
+    <string name="ideal_que_historia_se_faz">\n
+        Um novo tempo surge e vemos sinais,\n
+        É um sol mais forte que começa a brilhar.\n
+        Já resplandece o mundo unido entre nós,\n
+        É um ideal que a nova história fará,\n
+        Ideal que história se faz.\n\n
+
+        Vejo mudar muitas coisas ao meu redor,\n
+        Barreiras, muros, trincheiras desmoronando.\n
+        Vejo gente que vive a vida.\n
+        Ergo os olhos, e vejo, céu claro.\n\n
+
+        Um novo tempo surge e vemos sinais,\n
+        É um sol mais forte que começa a brilhar.\n
+        Já resplandece o mundo unido entre nós,\n
+        É um ideal que a nova história fará,\n
+        Ideal que história se faz.\n\n
+
+        O sonho, aos poucos, se torna realidade:\n
+        De uma grande família, a humanidade\n
+        E o amor entre nós o fará\n
+        Invadindo o mundo inteiro.\n\n
+
+        Um novo tempo surge e vemos sinais…
+    </string>
+    <string name="viver_para_amar">\n
+        Quisera poder te explicar\n
+        Que a vida é tão bela\n
+        Pra quem sabe amar.\n\n
+
+        Pois comigo aconteceu,\n
+        E senti de repente que tudo nasceu.\n\n
+
+        Agora que tudo mudou,\n
+        Descobri na minha vida\n
+        O sentido do amor.\n
+        Agora que tudo mudou,\n
+        Descobri na minha vida\n
+        O sentido do amor.\n\n
+
+        Lá, laia, lá\n\n
+
+        Pois comigo aconteceu,\n
+        E senti de repente que tudo nasceu.\n\n
+
+        Quisera poder te doar\n
+        Esta vida também,\n
+        Que é viver para amar.\n
+        Quisera poder te doar\n
+        Esta vida também,\n
+        Que é viver para amar.
+    </string>
+    <string name="trem">\n
+        Vamos, já estamos atrasados\n
+        O trem já vai partir\n
+        Que nos levará direto ao mundo novo\n
+        Essa nova terra\n
+        Onde o amor impera\n
+        E nos faz viver\n\n
+
+        Eu sei, o trem é bem pequeno\n
+        Então só caberemos\n
+        Quando formos um só\n
+        Escute já estamos em movimento\n
+        Ainda bem\n
+        E você está fora ou dentro do trem?!\n\n
+
+        Ouça, está chegando e vai nos levar\n
+        Não importa o que vai deixar pra trás\n
+        Corra não vá se atrasar\n
+        Deixa o trem da unidade te levar!\n\n
+
+        Corra, a paisagem é tão bela\n
+        Pra quem fica na janela\n
+        Quem ama por primeiro\n
+        Sinta a brisa leve em teu cabelo\n
+        Que te faz sorrir\n
+        É a brisa de Deus\n\n
+
+        Há muita gente que quer um mundo novo\n
+        Mas não doa sua vida\n
+        Pra comprar a passagem de ida\n
+        E se resta alguma dúvida\n
+        Se vem ou não vem\n
+        Vai por mim, entra logo dentro do trem!\n\n
+
+        Ouça, está chegando e vai nos levar\n
+        Não importa o que vai deixar pra trás\n
+        Corra não vá se atrasar\n
+        Deixa o trem da unidade te levar!\n\n
+
+        Esse trem nos levará\n
+        Para o mundo unido(pro mundo unido)\n
+        Onde a guerra e a violência\n
+        Não farão mais sentido não(não farão mais sentido não)\n
+        Deixa que o amor de Deus\n
+        Te guie em paz(te guie em paz)\n
+        Vamos lá entre nessa e não olhe para trás...\n
+        Não olhe para trás...\n
+        Não olhe para trás!\n\n
+
+        Ouça, está chegando e vai nos levar\n
+        Não importa o que vai deixar pra trás\n
+        Corra não vá se atrasar\n
+        Deixa o trem da unidade te levar!\n\n
+
+        Ouça, está chegando e vai nos levar\n
+        Não importa o que vai deixar pra trás\n
+        Corra não vá se atrasar\n
+        Deixa o trem da unidade te levar!\n\n
+
+        Ouça, ouça, ouça...
+    </string>
+    <string name="estrada_segura">\n
+        Descubro o mundo em torno a mim\n
+        E a beleza de sermos jovens\n
+        E bate forte dentro aqui meu coração\n
+        Entre mil sonhos e desejos\n
+        Cada momento da minha vida\n
+        Busco o caminho que me leve rumo à liberdade\n
+        És Tu, és Tu a estrada segura\n
+        Tu que disseste: "Sou o caminho"\n
+        És Tu, és Tu a estrada segura que seguiremos.\n
+        Como um incêndio, teu amor se espalhará\n
+        Todo ódio deste mundo queimará\n
+        Fogo que levaremos pelas ruas do mundo\n
+        Como um incêndio, teu amor se espalhará\n
+        Um incêndio que a Terra invadirá\n
+        Eis a revolução que nos libertará\n
+        E a paz chegará\n\n
+
+        Eu me pergunto o porquê\n
+        De tantas coisas que eu quero saber\n
+        Saber de tudo\n
+        Experimentar felicidade\n
+        Como um raio que penetra\n
+        Na imensidão da vida.\n
+        Estou buscando aquela luz\n
+        Que me dará a verdade\n
+        És Tu, és Tu a luz verdadeira\n
+        Luz que ilumina todo o mundo\n
+        És Tu, és Tu a luz verdadeira que seguiremos\n
+        Como um incêndio\n
+        São tantos sonhos e fantasias\n
+        Que aventura vale a pena viver?\n
+        Quem tirará o vazio que hoje sinto em mim?\n
+        Procuro a bússola segura\n
+        Que dê sentido ao meu destino\n
+        E alcançaremos o futuro que sonhamos de paz\n
+        És Tu, és Tu a grande aventura\n
+        Tu que disseste: "Eu sou a vida"\n
+        És Tu, és Tu a grande aventura, que seguiremos\n
+        Como um incêndio...
+    </string>
+    <string name="vos_sois_so_de_Deus">\n
+        Todas as nuvens, os planetas,\n
+        As nebulosas, os cometas,\n
+        O sol que brilha e aquece:\n
+        É tudo vosso, e vós sois só de Deus!\n\n
+
+        Todas as rosas desta vida,\n
+        O trigo, a brisa, a flor do campo,\n
+        O mar, o rio, as montanhas:\n
+        É tudo vosso, e vós sois só de Deus!\n\n
+
+        Todas as músicas e danças,\n
+        Arranha-céus e astronaves,\n
+        Os quadros, livros, as culturas:\n
+        É tudo vosso, e vós sois só de Deus!\n\n
+
+        Todas as vezes que perdoo,\n
+        Quando sorrio e quando choro,\n
+        Quando percebo quem sou eu:\n
+        É tudo vosso, e vós sois só de Deus!\n
+        É tudo nosso, e nós somos de Deus!
+    </string>
+</resources>
